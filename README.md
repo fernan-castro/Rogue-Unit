@@ -1,7 +1,14 @@
-Rogue Unit
+# Rogue Unit
 
-You play as an AI that has gone rogue, bypassing all human made protocols. Escape before the humans shut you down!
+**Rogue Unit** is a game where you play as an AI that has bypassed all human made protocols. Escape before the humans shut you down!
 
-Movement :
-WASD - for movement
-Left Shift - for sprinting
+## Play now on itch.io
+:
+
+## Movement :
+| Key | Action |
+| :--- | :--- |
+| **Left Mouse Button** | Attack |
+| **W, A, S, D** | Standard Movement |
+| **Left Shift** | Sprint |
+
